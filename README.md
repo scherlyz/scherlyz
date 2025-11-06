@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgydjdsOHdndnZ2OTB0enhmbTJjdGx0ejh0Yjh0a3ZyOGgwazMxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4NcZiaBhL9z0dhTL5r/giphy.gif" width="600">
 </p>
 
-## ୨୧ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 ୨୧
+## ⋆. 𐙚˚࿔ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 𝜗𝜚˚⋆  
 
 <p align="center">
   Hiii! ♡ I'm a <b>Software Developer</b> enthusiast who's also passionate about pretty and intuitive <b>UI/UX</b>. <br>
@@ -10,7 +10,7 @@
   I love exploring new ways to make technology feel more human and friendly! 🎀
 </p>
 
-## 🌸 𝒮𝑜𝒸𝒾𝒶𝓁𝓈 🌸
+## ⋆˚࿔ 𝐒𝐨𝐜𝐢𝐚𝐥𝐬 𝜗𝜚˚⋆ 
 
 <p align="center">
   <a href="https://instagram.com/scherlynia"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
@@ -18,7 +18,7 @@
   <a href="mailto:sheerly.tnv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
-## 💖 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀 💖
+## ˖ ֹ੭୧ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 ⊹ ࣪ ⑅
 
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
 </p>
 
-## ✨ 𝑀𝓎 𝒮𝓉𝒶𝓉𝓈 ✨
+## ⋆｡˚୨ 𝐌𝐲 𝐒𝐭𝐚𝐭𝐬 ୧˚｡⋆
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scherlyz&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
