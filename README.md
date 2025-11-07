@@ -5,7 +5,7 @@
 ## ⋆. 𐙚˚࿔ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 𝜗𝜚˚⋆  
 
 <p align="center">
-  Hiii! ♡ I'm a <b>Software Developer</b> enthusiast who's also passionate about pretty and intuitive <b>UI/UX</b>. <br>
+  Hiii, I'm Sherly! ♡ I'm a <b>Software Developer</b> enthusiast who's also passionate about pretty and intuitive <b>UI/UX</b>. <br>
   My goal is to craft solutions that are not just technically awesome, but also super easy and <b>fun</b> to use. <br>
   I love exploring new ways to make technology feel more human and friendly! 🎀
 </p>
